@@ -1,0 +1,4 @@
+/*
+ecmasript is a scripting language specification on which javascript is based
+
+ */
